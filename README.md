@@ -19,6 +19,10 @@ My current focus is **React Native for mobile** and **React / Next.js for web**,
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 **Testing**  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
