@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I’m **Phyae Sone Thwim**, a Senior Full Stack Developer based in **Chiang Mai, Thailand**.  
-I build **mobile and web applications** that are reliable in production and easy to maintain.
+I build **mobile and web applications** that are reliable in production, scalable over time, and easy to maintain.
 
-My current focus is **React Native for mobile** and **React / Next.js for web**, with solid experience working across the stack.
+My current focus is **React Native for mobile** and **React / Next.js for web**, with solid experience collaborating across the full stack.
 
 ---
 
@@ -29,15 +29,15 @@ My current focus is **React Native for mobile** and **React / Next.js for web**,
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
 ### 🧠 How I work
-- Frontend-first, with a clear understanding of backend and system constraints  
-- Ship mobile and web features end-to-end with testing and CI/CD  
-- Prefer clean, maintainable solutions over quick hacks  
+- **Frontend-first**, with a clear understanding of backend and system constraints  
+- Build mobile and web features **end-to-end**, from implementation to production  
+- Use **automated testing and CI/CD** to keep releases safe and predictable  
+- Prefer **clean, maintainable solutions** over quick hacks  
 
 ---
 
