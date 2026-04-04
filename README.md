@@ -2,7 +2,7 @@
 
 <h3>Phyae Sone Thwim</h3>
 
-**Senior Full Stack Engineer &nbsp;·&nbsp; Web &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Backend**
+**Senior Full Stack Engineer · Web · Mobile · Backend**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phyaesonethwim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyaesonethwim)
 &nbsp;
@@ -12,119 +12,163 @@
 
 </div>
 
-## Hi there 👋
+---
 
-- 👋 &nbsp;I'm **Phyae**, a software engineer with 5+ years building web and mobile apps for businesses across Southeast Asia, including fintech startups and government agencies in Singapore.
-- 👀 &nbsp;I'm interested in **full stack, mobile, and frontend** roles where I can own features from design through to deployment.
-- 🌱 &nbsp;I'm currently exploring **AI-assisted development workflows** and how LLM tooling fits into day-to-day engineering.
-- 💞️ &nbsp;I'm open to collaborating on products where good engineering actually makes a difference for the people using them.
-- 📫 &nbsp;Reach me at **mr.phyaesonethwim1998@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/phyaesonethwim)
-- 🎓 &nbsp;B.Sc (Hons) Computing, **First Class Honours** at University of Greenwich, UK (2025)
+Senior full stack engineer with 6+ years shipping production systems across fintech, enterprise, and government. I work across the entire stack, partnering with cross-functional teams to deliver end-to-end systems across web, mobile, and backend.
 
+I build web applications with React and Next.js, and mobile apps with React Native and Expo. On the backend, I work with Node.js, NestJS, and GraphQL. I’ve led teams, defined architecture, and delivered systems under strict uptime requirements.
 
-## What I work with
+Currently exploring AI-assisted development workflows and how LLM tooling fits into day-to-day engineering.
 
-I build across mobile, web, and backend. I'm comfortable owning all three.
+Open to full stack, mobile, and frontend roles, and flexible with time zones for remote collaboration. Reach me at [mr.phyaesonethwim1998@gmail.com](mailto:mr.phyaesonethwim1998@gmail.com) or [LinkedIn](https://www.linkedin.com/in/phyaesonethwim).
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+🎓 B.Sc (Hons) Computing, First Class Honours · University of Greenwich, UK (2025)
+
+---
+
+## Skills
+
+**Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
+
+**Infrastructure & Tooling**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=amazonec2&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-232F3E?style=flat&logo=awsamplify&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Detox](https://img.shields.io/badge/Detox-6B21A8?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat)
 
+---
 
 ## Projects
 
-These are the projects I'm most proud of. All of them were built for real clients, so the source code is private, but demos are linked below.
+Production systems across fintech, government, and enterprise built for real users at scale.
 
-## 🚀 Mobile Projects
+### Mobile
 
-### 💰 DayTwo · ONOW Ascent
-Android &nbsp;·&nbsp; [View on Google Play](https://play.google.com/store/search?q=daytwo&c=apps&hl=en)
+#### 💰 DayTwo · ONOW Ascent
 
-A lot of small business owners in Southeast Asia can't access loans simply because they've never tracked their finances formally. DayTwo gives them a mobile app to log income, expenses, and credit, then turns that data into a credit score they can actually use when applying for a loan.
+[Google Play](https://play.google.com/store/search?q=daytwo&c=apps&hl=en)
 
-I built the core tracking features supporting both manual entry and OCR-based capture from photos, along with the full loan application and tracking flow. I also wrote automated tests using Jest and Detox so the team could ship updates without worrying about breaking things.
+Fintech app for SMEs to track income, expenses, and credit, with automated credit score generation to support loan applications. Owned the full mobile lifecycle from architecture to Play Store release. Built OCR-based data capture, reduced API calls by ~40% through caching and request deduplication, and implemented real-time push notifications via Firebase.
 
-> 800+ small businesses on the platform &nbsp;·&nbsp; $37,000+ revenue on first launch &nbsp;·&nbsp; ~40% reduction in unnecessary data requests
+`React Native` · `Expo` · `EAS` · `TypeScript` · `React Query` · `Zustand` · `NativeWind` · `Firebase` · `Jest` · `Detox`
 
-`React Native` &nbsp;`Expo` &nbsp;`EAS` &nbsp;`TypeScript` &nbsp;`React Query` &nbsp;`Zustand` &nbsp;`NativeWind` &nbsp;`Firebase` &nbsp;`Jest` &nbsp;`Detox`
+> 800+ SMEs onboarded · $37K+ revenue on launch · ~40% fewer API calls
 
-### ⚡ ONenergy · Oneberry
-Android &nbsp;·&nbsp; [View on Google Play](https://play.google.com/store/apps/details?id=com.singaporetestlab.on_energy.twa)
+---
 
-The National Environment Agency needed a way to monitor real household energy consumption across Singapore, not just totals, but per-appliance breakdowns, in real time, for hundreds of participating households at once.
+#### ☕ JAVIS · Nexstack
 
-I led the development of the full-stack platform front to back, building the backend on Strapi CMS with GraphQL APIs consumed by a React Native app, and publishing it to Android via Expo. Each household gets its own dashboard showing live breakdowns by appliance line: lights, aircon, kitchen, water heater, with date-range filtering and report generation, all backed by smart meter data ingested at 2-second intervals.
+[View Project](https://www.javisholdings.com/copy-of-emerging-digital-ecosystem-ne)
 
-> 119 appliances tracked &nbsp;·&nbsp; 2-second reading intervals &nbsp;·&nbsp; Part of a 600-household
+Cross-platform (iOS & Android) mobile ordering app for automated beverage machines. Optimized the pre-order flow to cut ordering time by ~50%, integrated Stripe payments, and built the system to handle 100+ concurrent users during peak hours.
 
-`React Native` &nbsp;`Expo` &nbsp;`Strapi CMS` &nbsp;`GraphQL` &nbsp;`Zustand` &nbsp;`Docker` &nbsp;`GitHub Actions`
+`React Native` · `Expo` · `EAS` · `JavaScript` · `Zustand` · `GraphQL` · `Firebase` · `Stripe`
 
-## 🖥️ Web Projects
+> 300+ daily orders per machine · ~50% faster ordering · 100+ concurrent users
 
-### 🛡️ AIA Agent Platform · Nexstack
-Web &nbsp;·&nbsp; [View Demo](https://aiaplus.aia.com.sg/)
+---
 
-AIA Singapore's agents were going through a slow, paper-based onboarding process. This platform moved the whole thing online: identity checks, compliance forms, and document uploads all handled digitally.
+### Web
 
-I built the system from scratch. That meant designing the onboarding flow, implementing identity verification, and making sure compliance requirements were met correctly. I also set up the codebase in a way that made it easy for a larger team to work on different parts without constantly running into each other.
+#### 🏦 Digital Advisor Platform · Nexstack
 
-> 6,000+ AIA Singapore agents using the platform &nbsp;·&nbsp; Full onboarding process digitised end-to-end
+[View Project](https://www.hitachi.asia/fibu/product/digital-advisor-platform/)
 
-`React` &nbsp;`TypeScript` &nbsp;`GraphQL` &nbsp;`Zustand` &nbsp;`AWS Amplify` &nbsp;`S3` &nbsp;`EC2` &nbsp;`Nx Monorepo` &nbsp;`Bootstrap`
+Enterprise financial advisory platform for AIA Singapore. Replaced a fully paper-based agent onboarding process with end-to-end digital workflows including KYC verification, compliance checks, and structured customer data collection.
 
-### 📦 B2B Supplier Management Portal · Nexstack
-Web &nbsp;·&nbsp; [View Demo](https://shengsiong.com.sg/)
+`React` · `TypeScript` · `GraphQL` · `Zustand` · `AWS Amplify` · `Bootstrap`
 
-The client had an old supplier portal that was difficult to maintain and couldn't keep up with the speed their business needed. Everything from managing inventory to processing purchase orders needed to be rebuilt on modern foundations.
+> 6,000+ AIA Singapore agents onboarded · Full onboarding process digitised
 
-I led the migration from the legacy system and rebuilt all the core workflows. One thing I focused on was how product data synced between the portal and their e-commerce platform, and improving that alone cut integration time by 30%.
+---
 
-> 30% faster data sync &nbsp;·&nbsp; Inventory, purchase orders, e-procurement, and e-incentive workflows rebuilt
+#### 📹 Real-Time Surveillance Platform · Nexstack
 
-`Next.js` &nbsp;`TypeScript` &nbsp;`Express.js` &nbsp;`Strapi CMS` &nbsp;`MySQL` &nbsp;`Redux` &nbsp;`Bootstrap`
+[View Project](https://oneberry.com/anomaly-detection-ai/)
 
-### 📹 Real-Time Surveillance Platform · Nexstack
-Web &nbsp;·&nbsp; [View Demo](https://oneberry.com/anomaly-detection-ai/)
+Architected and built a real-time surveillance system deployed across three government agencies under strict uptime and security requirements. Built multi-camera live monitoring with grid layouts (4–6 cameras per view), real-time alerting, and a scalable NestJS and PostgreSQL backend. Improved map rendering performance for camera locations by ~50% using Redis, reduced defects by ~60% with Jest and Cypress, and accelerated deployments by ~20% via Docker and GitHub Actions.
 
-Three government agencies each required their own standalone surveillance platform deployed within their own infrastructure, with strict security compliance and zero tolerance for downtime.
+`Next.js` · `TypeScript` · `Redux` · `NestJS` · `TypeORM` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions`
 
-I architected and built the full-stack platform across frontend and backend, designing the high-density live camera map with real-time snapshots and alerts, and building the API and database layer with NestJS, TypeORM and PostgreSQL. 
+> 4,000+ cameras across 3 agencies · ~50% render improvement · ~60% fewer bugs · ~20% faster deploys
 
-I containerised the platform with Docker and worked directly with each agency's engineering team to meet their security compliance requirements and deploy within their own infrastructure. I also established Jest and Cypress testing standards and mentored junior developers across three cross-functional teams.
+---
 
-> 4,000+ cameras across 3 government agencies &nbsp;·&nbsp; ~50% map render improvement &nbsp;·&nbsp; ~60% fewer production bugs &nbsp;·&nbsp; ~20% faster deployments
+#### 📦 B2B Supplier Portal · Nexstack
 
-`Next.js` &nbsp;`TypeScript` &nbsp;`NestJS` &nbsp;`TypeORM` &nbsp;`PostgreSQL` &nbsp;`Redis` &nbsp;`Redux` &nbsp;`Lerna` &nbsp;`Docker` &nbsp;`GitHub Actions`
+[View Project](https://shengsiong.com.sg/)
 
-### 🏛️ SMU Research File Management Portal · Nexstack
-Web &nbsp;·&nbsp; [View Demo](https://smu.oneberryhub.com/)
+Migrated a legacy supplier portal to a scalable Next.js stack. Rebuilt procurement and inventory workflows with supplier e-commerce data integration, and redesigned the API architecture to reduce data integration time by ~30%.
 
-The research team at Singapore Management University needed a way to manage and monitor tens of thousands of academic publication and citation records, track missing data, and access documents without relying on manual processes.
+`Next.js` · `JavaScript` · `GraphQL` · `Express.js` · `Strapi CMS` · `MySQL` · `Redux` · `AWS EC2` · `AWS S3`
 
-I led the development of the full-stack web portal where the university team can browse and download academic documents grouped by date, identify missing records, and export automated Excel reports. 
+> ~30% faster data integration · Procurement and inventory workflows rebuilt end-to-end
 
-I also built the backend sync pipeline that updates publications and citations on a daily schedule with file checks running every few minutes throughout the day.
+---
 
-> 14,798 publications and 363,613 citations synced every day &nbsp;·&nbsp; Zero manual effort required
+#### ⚡ ONenergy Monitoring Platform · Nexstack
 
-`Next.js` &nbsp;`Strapi CMS` &nbsp;`GraphQL` &nbsp;`Zustand` &nbsp;`AWS S3` &nbsp;`Docker` &nbsp;`GitHub Actions`
+[View Project](https://play.google.com/store/apps/details?id=com.singaporetestlab.on_energy.twa)
+
+Full-stack energy monitoring platform built for Singapore's National Environment Agency. Processes smart meter data at 2-second intervals and delivers per-appliance dashboards with date filtering and automated report export. Eliminated manual tracking across 600 households.
+
+`Next.js` · `JavaScript` · `Zustand` · `Strapi CMS` · `GraphQL` · `Docker` · `GitHub Actions`
+
+> 119 appliances tracked · 2-second reading intervals · 600 households
+
+---
+
+#### 🏛️ SMU Research Portal · Nexstack
+
+[View Project](https://smu.oneberryhub.com/)
+
+Academic data portal for Singapore Management University. Built the system end-to-end, including a full-stack web app and automated backend pipeline with daily syncs, per-minute integrity checks, missing record detection, and Excel report exports. Eliminated all manual data management effort.
+
+`Next.js` · `JavaScript` · `GraphQL` · `Zustand` · `Strapi CMS` · `AWS S3` · `Docker` · `GitHub Actions`
+
+> 14,798 publications · 363,613 citations synced daily · Zero manual effort
+
+---
+
+#### 🌐 CollegeDAO Platform · Nexstack
+
+[View Project](https://collegedao.io/)
+
+Web3 platform connecting university blockchain communities worldwide, enabling collaboration across a growing network of student communities. Built scalable frontend architecture using Next.js, Zustand, and GraphQL, improving performance through optimized rendering and state management.
+
+`Next.js` · `TypeScript` · `Zustand` · `GraphQL` · `Framer Motion` · `Tailwind CSS` · `Docker` · `GitHub Actions`
+
+> 100+ universities · 80+ blockchain communities · 14.6K+ users
