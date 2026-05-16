@@ -15,18 +15,19 @@
 </div>
 
 ---
-
 ## About Me
 
-Senior full stack engineer with 6+ years of experience building web, mobile, and backend systems across fintech, enterprise, and government projects. I take ownership of system design and deliver features end to end in cross functional teams.
+Senior Full Stack Engineer with 6+ years of experience building scalable web, mobile, and backend systems across fintech, enterprise, and government domains. I focus on end-to-end delivery, from system design to production, within cross-functional teams.
 
-I work across frontend, backend APIs, and infrastructure, focusing on building and shipping production features used by real users.
+Currently exploring how LLM tools can improve engineering workflows and development speed.
 
-Currently exploring how LLM tools can improve development speed and engineering workflows.
+🎓 B.Sc (Hons) Computing (First Class Honours), University of Greenwich, 2025
 
-Open to full stack, mobile, and frontend roles. Flexible with time zones for remote collaboration.
+---
 
-🎓 B.Sc (Hons) Computing, First Class Honours · University of Greenwich, UK (2025)
+🧭 **Focus:** Web · Mobile · Backend APIs · System Design  
+💼 **Open to:** Full Stack · Web Engineer · Mobile Engineer roles  
+🌍 **Work mode:** Remote · Hybrid · Flexible time zones
 
 ## Skills
 
