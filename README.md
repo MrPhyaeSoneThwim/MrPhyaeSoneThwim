@@ -46,7 +46,9 @@ Currently exploring how LLM tools can improve engineering workflows and developm
 ### Backend & Infrastructure
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-262626?style=for-the-badge&logo=typeorm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -78,9 +80,9 @@ Fintech mobile platform enabling SMEs to manage financial records through POS tr
 
 ### Real-Time Surveillance Platform · [Product Page](https://oneberry.com/anomaly-detection-ai/)
 
-Architected a multi-tenant surveillance system across three government agencies with OAuth 2.0/SSO and RBAC security model. Built a NestJS backend integrated with NxWitness VMS for real-time video streaming and deployed across multiple VMs using Docker and Nginx.
+Architected a multi-tenant surveillance system scaled across three government agencies with OAuth 2.0/SSO and RBAC-based security. Built a NestJS backend integrated with NxWitness VMS for real-time video streaming and deployed across multiple VMs using Docker and Nginx.
 
-Implemented BullMQ workers for asynchronous video processing and WebSocket-based incident delivery. Optimized map rendering performance using Redis geospatial indexing.
+Implemented BullMQ workers for asynchronous processing of live-stream video clips, enabling real-time incident generation and delivery via WebSockets. Optimized map rendering performance using Redis geospatial indexing.
 
 `Next.js` · `NestJS` · `PostgreSQL` · `Redis` · `BullMQ` · `Docker` · `Nginx`
 
@@ -90,7 +92,7 @@ Implemented BullMQ workers for asynchronous video processing and WebSocket-based
 
 ### Digital Advisor Platform · [Product Page](https://www.hitachi.asia/fibu/product/digital-advisor-platform/)
 
-Enterprise financial advisory system for AIA Singapore, replacing paper-based onboarding with digital KYC and compliance workflows. Built a micro-frontend architecture in an Nx monorepo to enable independent feature development across teams.
+Enterprise financial advisory system modernizing paper-based onboarding through digital KYC verification and compliance workflows. Designed a micro-frontend architecture within an Nx monorepo to enable independent feature development and cross-team collaboration.
 
 `React` · `TypeScript` · `GraphQL` · `Zustand` · `AWS Amplify`
 
@@ -100,7 +102,7 @@ Enterprise financial advisory system for AIA Singapore, replacing paper-based on
 
 ### JAVIS · [Product Page](https://www.javisholdings.com/copy-of-emerging-digital-ecosystem-ne)
 
-Cross-platform ordering system for automated beverage machines. Optimized GraphQL data flow, integrated Stripe payments, and redesigned ordering UX, reducing ordering time by ~50%. Managed full mobile release pipelines using Expo and EAS.
+Cross-platform ordering system for automated beverage machines with Mapbox integration for machine discovery. Optimized GraphQL data flow, integrated Stripe payments, and redesigned ordering UX, reducing ordering time by ~50%. Managed full mobile release pipelines using Expo and EAS.
 
 `React Native` · `Expo` · `GraphQL` · `Firebase` · `Stripe`
 
@@ -122,7 +124,7 @@ Modernized procurement platform used by 100+ vendors using Next.js and GraphQL. 
 
 ### ONenergy Monitoring Platform (Mobile) · [Google Play](https://play.google.com/store/apps/details?id=com.singaporetestlab.on_energy.twa)
 
-Smart meter monitoring system for Singapore’s National Environment Agency, delivering real-time 2-second interval readings across 600 households. Built optimized high-frequency data handling using GraphQL and lightweight state management.
+Smart meter monitoring system for Singapore’s National Environment Agency, delivering real-time 2-second interval readings across 600 households. Built optimized high-frequency data handling using GraphQL and lightweight state management with Zustand.
 
 `React Native` · `Expo` · `GraphQL` · `Zustand`
 
