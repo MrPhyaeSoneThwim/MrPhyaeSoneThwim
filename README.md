@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 ## About Me
 
 Senior Full Stack Engineer with 6+ years of experience building scalable web, mobile, and backend systems across fintech, enterprise, and government domains. I focus on end-to-end delivery, from system design to production, within cross-functional teams.
@@ -60,25 +61,27 @@ Currently exploring how LLM tools can improve engineering workflows and developm
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### AWS Cloud
+
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS AppSync](https://img.shields.io/badge/AWS_AppSync-FF4F8B?style=for-the-badge&logo=awsappsync&logoColor=white)
 
 ## Featured Projects
 
-### DayTwo · [Google Play](https://play.google.com/store/search?q=daytwo&c=apps&hl=en)
+### DayTwo · [Case Study](https://phyaesonethwimdev.vercel.app/projects/daytwo-mobile)
 
 Fintech mobile platform enabling SMEs to manage financial records through POS transactions and OCR-based receipt capture. Built offline-first workflows with AI-assisted financial insights and business advisory features for decision support. Owned full mobile architecture and production release lifecycle.
 
-`React Native` · `Expo` · `TypeScript` · `React Query` · `Zustand` · `Firebase`
+`React Native` · `Expo` · `TypeScript` · `TanStack Query` · `Zustand` · `Firebase`
 
-> 800+ SMEs onboarded · $37K+ revenue generated · ~40% reduction in API usage
+> 800+ SMEs onboarded · $37K+ revenue generated · ~40% reduction in API calls
 
 ---
 
-### Real-Time Surveillance Platform · [Product Page](https://oneberry.com/anomaly-detection-ai/)
+### Real-Time Surveillance Platform · [Case Study](https://phyaesonethwimdev.vercel.app/projects/surveillance-platform)
 
 Architected a multi-tenant surveillance system scaled across three government agencies with OAuth 2.0/SSO and RBAC-based security. Built a NestJS backend integrated with NxWitness VMS for real-time video streaming and deployed across multiple VMs using Docker and Nginx.
 
@@ -86,76 +89,66 @@ Implemented BullMQ workers for asynchronous processing of live-stream video clip
 
 `Next.js` · `NestJS` · `PostgreSQL` · `Redis` · `BullMQ` · `Docker` · `Nginx`
 
-> 4,000+ concurrent camera feeds · 3 agencies · ~50% faster rendering · ~60% fewer production issues
+> 10,000+ CCTV cameras · 3 government agencies · ~60% fewer production defects
 
 ---
 
-### Digital Advisor Platform · [Product Page](https://www.hitachi.asia/fibu/product/digital-advisor-platform/)
+### Digital Advisor Platform · [Case Study](https://phyaesonethwimdev.vercel.app/projects/digital-advisor)
 
 Enterprise financial advisory system modernizing paper-based onboarding through digital KYC verification and compliance workflows. Designed a micro-frontend architecture within an Nx monorepo to enable independent feature development and cross-team collaboration.
 
 `React` · `TypeScript` · `GraphQL` · `Zustand` · `AWS Amplify`
 
-> 6,000+ agents onboarded · End-to-end onboarding digitised
+> 6,000+ active advisors · 7 advisory workflow modules · Real-time financial simulation
 
 ---
 
-### JAVIS · [Product Page](https://www.javisholdings.com/copy-of-emerging-digital-ecosystem-ne)
+### JAVIS · [Case Study](https://phyaesonethwimdev.vercel.app/projects/javis-ordering)
 
 Cross-platform ordering system for automated beverage machines with Mapbox integration for machine discovery. Optimized GraphQL data flow, integrated Stripe payments, and redesigned ordering UX, reducing ordering time by ~50%. Managed full mobile release pipelines using Expo and EAS.
 
-`React Native` · `Expo` · `GraphQL` · `Firebase` · `Stripe`
+`React Native` · `Expo` · `GraphQL` · `Zustand` · `Stripe` · `Mapbox`
 
-> 300+ daily orders per machine · ~50% faster ordering flow · Production iOS/Android releases
+> 300+ daily orders per machine · ~50% faster checkout · 100+ concurrent users
 
 ---
 
 ## Additional Projects
 
-### B2B Supplier Portal · [Company Site](https://shengsiong.com.sg/)
+### B2B Supplier Portal · [Case Study](https://phyaesonethwimdev.vercel.app/projects/b2b-portal)
 
 Modernized procurement platform used by 100+ vendors using Next.js and GraphQL. Built a data integration pipeline processing millions of transaction records, improving performance through MySQL query optimization and indexing strategies.
 
-`Next.js` · `GraphQL` · `MySQL` · `Express.js` · `AWS`
+`Next.js` · `GraphQL` · `MySQL` · `Express.js` · `AWS EC2` · `AWS RDS` · `AWS S3`
 
-> ~30% improvement in data processing performance
-
----
-
-### ONenergy Monitoring Platform (Mobile) · [Google Play](https://play.google.com/store/apps/details?id=com.singaporetestlab.on_energy.twa)
-
-Smart meter monitoring system for Singapore’s National Environment Agency, delivering real-time 2-second interval readings across 600 households. Built optimized high-frequency data handling using GraphQL and lightweight state management with Zustand.
-
-`React Native` · `Expo` · `GraphQL` · `Zustand`
-
-> 119 appliances · 600 households · real-time monitoring
+> 100+ active vendors · 1M+ transaction records · ~30% query latency reduced
 
 ---
 
-### ONenergy Monitoring Platform (Web) · [Live Demo](https://web.neahecs.com/)
+### ONenergy Monitoring Platform (Mobile) · [Case Study](https://phyaesonethwimdev.vercel.app/projects/onenergy-mobile)
 
-Web-based energy monitoring platform delivering real-time dashboards across 600 households with 2-second interval updates. Built a dedicated GraphQL API serving both web and mobile clients.
+React Native app giving homeowners real-time visibility into household electricity consumption at individual appliance level, powered by IoT sensors with 2-second live updates. Owned full mobile lifecycle from planning through Play Store release.
 
-`Next.js` · `GraphQL` · `Strapi CMS` · `Zustand` · `Docker` · `Nginx`
+`React Native` · `Expo` · `JavaScript` · `Zustand` · `REST API`
 
-> 600 households · unified API for web/mobile clients
+> 600+ households monitored · 119 appliances per household · 2s live update interval
 
 ---
 
-### SMU Research Portal · [Live Demo](https://smu.oneberryhub.com/login/)
+### ONenergy Monitoring Platform (Web) · [Case Study](https://phyaesonethwimdev.vercel.app/projects/onenergy-web)
+
+Full-stack web platform for household electricity monitoring, appliance management, and administrative workflows across 600+ connected homes. Led frontend, backend, infrastructure, and team engineering standards.
+
+`Next.js` · `TypeScript` · `Zustand` · `Express.js` · `PostgreSQL` · `Docker` · `Nginx`
+
+> 600+ households managed · 119 appliances per household
+
+---
+
+### SMU Research Portal · [Case Study](https://phyaesonethwimdev.vercel.app/projects/smu-portal)
 
 Academic data integration platform with scheduled sync pipelines, data validation, missing file detection, and automated reporting workflows, eliminating manual processing overhead.
 
-`Next.js` · `Express.js` · `Docker` · `AWS S3`
+`Next.js` · `TypeScript` · `GraphQL` · `Strapi CMS` · `PostgreSQL` · `Docker` · `AWS S3`
 
-> 14,798 publications · 363,613 citations processed
-
----
-
-### CollegeDAO · [Live Demo](https://collegedao.io/)
-
-Web3 community platform connecting university blockchain ecosystems with scalable frontend architecture and optimized user experience for large-scale communities.
-
-`Next.js` · `TypeScript` · `GraphQL` · `Tailwind CSS` · `Strapi CMS`
-
-> 100+ universities · 14.6K+ users
+> ~14.8K publications managed · ~363K citation records · 8 schools supported
