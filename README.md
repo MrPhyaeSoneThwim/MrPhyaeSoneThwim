@@ -18,7 +18,7 @@
 
 ## About Me
 
-Senior Full Stack Engineer with 5+ years of experience building scalable web, mobile, and backend systems across fintech, enterprise, and government domains. I focus on end-to-end delivery, from system design to production, within cross-functional teams.
+Senior Full Stack Engineer with 6+ years of experience building scalable web, mobile, and backend systems across fintech, enterprise, and government domains. I focus on end-to-end delivery, from system design to production, within cross-functional teams.
 
 Currently exploring how LLM tools can improve engineering workflows and development speed.
 
