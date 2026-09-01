@@ -4,14 +4,12 @@
 
 **Senior Full Stack Engineer · Web · Mobile · Backend**
 
-[![Location](https://img.shields.io/badge/Location-Bangkok,_Thailand-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Chiang%20Mai%2C%20Thailand-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phyaesonethwim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyaesonethwim)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-mr.phyaesonethwim1998%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.phyaesonethwim1998@gmail.com)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge)
-
 </div>
 
 ---
